@@ -18,14 +18,14 @@
         "keterangan": "aplikasi berbagi foto dan video",
         "jumlah_pengguna": 30000,
         "pendiri": "Kevin Systrom",
-        "tanggal_didirikan": "6 Oktober 2010"
+        "tanggal_didirikan": "6 October 2010"
     },
     {
         "nama_aplikasi": "whatsapp",
         "keterangan": "aplikasi messaging",
         "jumlah_pengguna": 40000,
         "pendiri": "Jan Koum",
-        "tanggal_didirikan": "3 Mei 2009"
+        "tanggal_didirikan": "3 May 2009"
     },
     {
         "nama_aplikasi": "twitter",
@@ -33,5 +33,103 @@
         "jumlah_pengguna": 50000,
         "pendiri": "Jack Dorsey",
         "tanggal_didirikan": "15 Juli 2006"
+    },
+    {
+        "nama_aplikasi": "pinterest",
+        "keterangan": "aplikasi berbagi foto dan gambar",
+        "jumlah_pengguna": 20000,
+        "pendiri": "Ben Silbermann",
+        "tanggal_didirikan": "3 Januari 2010"
+    },
+    {
+        "nama_aplikasi": "linkedin",
+        "keterangan": "aplikasi berbagi pekerjaan",
+        "jumlah_pengguna": 40000,
+        "pendiri": "Ryan Roslansky",
+        "tanggal_didirikan": "5 May 2002"
+    },
+    {
+        "nama_aplikasi": "telegram",
+        "keterangan": "aplikasi online chatting",
+        "jumlah_pengguna": 35000,
+        "pendiri": "Pavel Durov",
+        "tanggal_didirikan": "14 August 2013"
+    },
+    {
+        "nama_aplikasi": "snapchat",
+        "keterangan": "aplikasi berbagi foto dan video",
+        "jumlah_pengguna": 20000,
+        "pendiri": "Evan Spiegel",
+        "tanggal_didirikan": "16 September 2011"
+    },
+    {
+        "nama_aplikasi": "youtube",
+        "keterangan": "aplikasi berbagi video",
+        "jumlah_pengguna": 60000,
+        "pendiri": "Jawed Karim",
+        "tanggal_didirikan": "14 Februari 2005"
+    },
+    {
+        "nama_aplikasi": "tumblr",
+        "keterangan": "aplikasi microblogging",
+        "jumlah_pengguna": 8000,
+        "pendiri": "David Karp",
+        "tanggal_didirikan": "4 May 2007"
+    },
+    {
+        "nama_aplikasi": "medium",
+        "keterangan": "aplikasi online publishing",
+        "jumlah_pengguna": 4000,
+        "pendiri": "Evan Williams",
+        "tanggal_didirikan": "15 August 2012"
+    },
+    {
+        "nama_aplikasi": "twitch",
+        "keterangan": "aplikasi live video streaming",
+        "jumlah_pengguna": 70000,
+        "pendiri": "Justin Kan",
+        "tanggal_didirikan": "6 Juni 2011"
+    },
+    {
+        "nama_aplikasi": "clubhouse",
+        "keterangan": "aplikasi voice chatting",
+        "jumlah_pengguna": 5000,
+        "pendiri": "Paul Davison",
+        "tanggal_didirikan": "9 Maret 2020"
+    },
+    {
+        "nama_aplikasi": "discord",
+        "keterangan": "aplikasi online messaging",
+        "jumlah_pengguna": 47000,
+        "pendiri": "Stanislav Vishnevskiy",
+        "tanggal_didirikan": "13 May 2015"
+    },
+    {
+        "nama_aplikasi": "wattpad",
+        "keterangan": "aplikasi online publishing",
+        "jumlah_pengguna": 15000,
+        "pendiri": "Allen Lau",
+        "tanggal_didirikan": "7 November 2006"
+    },
+    {
+        "nama_aplikasi": "github",
+        "keterangan": "aplikasi bagi para programmer",
+        "jumlah_pengguna": 56000,
+        "pendiri": "Tom Preston-Werner",
+        "tanggal_didirikan": "17 August 2008"
+    },
+    {
+        "nama_aplikasi": "reddit",
+        "keterangan": "aplikasi untuk diskusi berbagai hal",
+        "jumlah_pengguna": 78000,
+        "pendiri": "Steve Huffman",
+        "tanggal_didirikan": "23 Juni 2005"
+    },
+    {
+        "nama_aplikasi": "askfm",
+        "keterangan": "aplikasi untuk saling bertanya antar user",
+        "jumlah_pengguna": 21000,
+        "pendiri": "Mark Terebin",
+        "tanggal_didirikan": "16 Juni 2010"
     }
 ]

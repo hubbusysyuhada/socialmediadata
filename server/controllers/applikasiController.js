@@ -3,10 +3,9 @@ const { SocialMedias } = require('../models')
 class AppController {
 
     static async getAll (req, res, next) {
-        console.log('masuk get all');
         try {
             const {pendiri} = req.query
-            let data = await SocialMedias.findAll()
+            let data = await SocialMedias.findAll({order: [['id', 'ASC']]})
             if (pendiri) data = data.filter(sosmed => sosmed.pendiri.toLowerCase().includes(pendiri))
             res.status(200).json(data)
         } catch (error) {

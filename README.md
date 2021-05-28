@@ -13,3 +13,9 @@
  - Sequelize
 
  ## Front End
+- React js
+- Redux
+- Redux Thunk
+- Bootstrap
+- Axios
+- CK Editor 5
